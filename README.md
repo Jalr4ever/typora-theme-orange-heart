@@ -1,31 +1,19 @@
+> ⚡Switch you doc work flow to jalr4ever's style 
 
-# typora-theme-orange-heart
+# 特性
 
-[English | [中文](README_CN.md)]
+- [x] 重载 input CSS，修正与文字不对齐的 bug
+- [x] 调整 content 为 70% 宽度，容纳更多的写作内容
+- [ ] Continue...
 
-## 1 Introduce
+# 安装
 
+① `Typora` 软件：文件->偏好设置(->外观)->主题->打开主题文件夹；
 
-> The style is based on markdown-nice's [orange heart](https://preview.mdnice.com/themes/id/1) theme, the author is [zhning12](https://github.com/zhning12).
->
-> and the code box style is based on typora's [typora-theme-pie](https://github.com/kevinzhao2233/typora-theme-pie) theme, the author is [kevinzhao2233](https://github.com/kevinzhao2233).
+② 将 `orangeheart.css` 文件复制粘贴至 `Typora` 主题文件夹；
 
-This style comes from the idea of using [markdown-nice ](https://github.com/mdnice/markdown-nice)to process Markdown styles and want to use them on Typora. At present, the general style is the same and can be used normally.
+③ 重启软件。
 
-## 2 Install
+# 渲染效果
 
-① `Typora` Software：File->Perferences...(->Appearance)->Themes->Open Theme Folder.
-
-②  Copy and paste the `orangeheart.css` file into the Typora theme folder.
-
-③  restart the softwar.
-
-## 3 Screenshot
-
-To be added.
-
-## 4 Other
-
-* [Typora Theme](http://theme.typora.io/)
-
-MIT @ evgo2017
+![image-20200913143649568](img/image-20200913143649568.png)
